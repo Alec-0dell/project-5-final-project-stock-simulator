@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="start">Tap to Start Your Adventure</string>
+    <string name="zaza_stocks">ZaZa\nStock\nSimulator</string>
+    <string name="help_button">Need Help?</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="summary">Summary</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="add_defualt_stocks">Add Default Stocks</string>
+    <string name="search">Search</string>
+    <string name="about_paragraph">Zaza Stock Simulator is a simple way to keep track of stocks and possible investments. It provides a testing ground for any investment strategy or investment plan. Do you have what it takes to beat the market?</string>
+    <string name="help_paragraph">There are two basic pages, a watchlist and a summary page. The watchlist contains stocks you are interested in, their current price and percent change on that day. On the summary page, you see all the stocks that you have bought and how much they have risen or fallen. On this page the data contains the current price of the stock, percent change since investment, and value change since investment.</string>
+</resources>
